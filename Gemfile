@@ -7,7 +7,7 @@ end
 
 gem 'rails', '~> 5.2'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.3'
 gem 'rack-cors', require: 'rack/cors'
 gem 'bcrypt', '~> 3.1.7'
 gem 'knock', '1.4.2'
